@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="addFirstName_et" type="id" />
+    <item name="addLastName_et" type="id" />
+    <item name="addAge_et" type="id" />
+    <item name="add_btn" type="id" />
+    <item name="lastName_txt" type="id" />
+    <item name="firstName_txt" type="id" />
+    <item name="id_txt" type="id" />
+    <item name="age_txt" type="id" />
+</resources>
